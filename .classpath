@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="lib/cxf-2.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-manifest.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-xjc-boolean-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-xjc-bug671-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-xjc-dv-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-xjc-ts-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/neethi-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="lib/xmlschema-core-2.0.1.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
